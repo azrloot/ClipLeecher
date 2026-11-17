@@ -1,3 +1,5 @@
+[ClipLeecherV1.2.zip](https://github.com/user-attachments/files/34972730/ClipLeecherV1.2.zip)
+
 Download the zip, inside the zip is a .exe, double-click it, and that will install a desktop shortcut.
 Let me know if there is a platform you'd like added.
 <img width="56" height="52" alt="Screenshot 2026-11-15 180143" src="https://github.com/user-attachments/assets/338b8b78-45a9-469c-ac26-508b22a42942" />
